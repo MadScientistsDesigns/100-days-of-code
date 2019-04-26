@@ -1,30 +1,112 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 2: April 26, 2019
+**Today's Progress**: Finished tweaking the Tribute Page project and passed all 10 tests.
+**Thoughts**: Need to pay more attention to detail: image vs img.
+**Link to Work**: [freeCodeCamp Project: Build a Tribute Page] https://madscientistsdesigns.github.io/GW-Toney-Tribute-Page/
 
 
-### Day 1: June 27, Monday
+### Day 3: 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
+
+
+### Day 4: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+### Day 5: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+### Day 6: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
+### Day 7: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
+### Day 8: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
+### Day 9: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
+### Day 10: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
+### Day 11: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
+### Day 12: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
+### Day 13: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
+### Day 14: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
+### Day 15: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [freeCodeCamp Project: Build a Tribute Page] https://madscientistsdesigns.github.io/GW-Toney-Tribute-Page/
+2. 
